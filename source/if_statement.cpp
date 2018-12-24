@@ -11,7 +11,7 @@ it like another if statement. You can chain if, else if, else if, on for
 as many times as you like, and only one will be executed. Usually if you 
 have more than 3, you should look at a switch statement. 
 */
-if_statement(){
+void if_statement(){
     int option_0;
     int option_1;
     int option_2;

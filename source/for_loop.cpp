@@ -28,15 +28,14 @@ for(int i = 0; i < 10; ++i){
 }
 */
 
-for_loop(){
+void for_loop(){
     //This is the above for loop demonstrated. 
     for(int i = 0; i < 10; ++i){
         std::cout << "count is equal to: " << i << "\n";
     }
-    std::cout << "first for loop finished, count = " << i << "\n";
 
     //This for loop will count by 2's
-    for(int i = 0; i < 10; i += 2;){
+    for(int i = 0; i < 10; i += 2){
         std::cout << "count is equal to: " << i << "\n";
     }
 

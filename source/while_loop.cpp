@@ -13,7 +13,7 @@ and you'll get it!
 
 */
 
-while_loop(){
+void while_loop(){
     int go = 1;
     int count = 0;
 

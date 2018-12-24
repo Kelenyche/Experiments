@@ -1,3 +1,3 @@
 #include <iostream>
 
-if_statement();
+void if_statement();

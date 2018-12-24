@@ -7,7 +7,7 @@ user. At each case, it looks at option and the case, and compares them. If
 they are equal, it executes until the next break, then breaks out. If none 
 the cases match, it goes to default, which is usually an error behavior. 
 */
-switch_case(){
+void switch_case(){
     int option;
 
     std::cout << "Enter a number from 0-2: \n";
